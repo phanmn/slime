@@ -6,3 +6,4 @@ erl_crash.dump
 /src/slime_parser.peg
 /src/slime_parser.erl
 .tool-versions
+/doc
